@@ -19,8 +19,8 @@ I've been working on a few personal projects that I'm excited about. You can fin
 - Learning more about AI Efficiency.
 
 ## Let's Connect! 🤝
-- **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/yourusername/)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [trananh91](https://www.linkedin.com/in/trananh91/)
+- **Email:** [tranducanh717@gmail.com](mailto:your.email@example.com)
 
 ---
 
