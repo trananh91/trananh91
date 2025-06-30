@@ -1,5 +1,5 @@
 ## About Me 👋🧑
-Hi, I am Duc Anh Tran. 
+Hi, I am Duc Anh Tran.  
 I am just someone curious about the **AI landscape** and always eager to learn new things in tech.
 
 ## My tookkit 🛠️
@@ -15,8 +15,8 @@ I am just someone curious about the **AI landscape** and always eager to learn n
 I've been working on a few personal projects that I'm excited about. You can find more details and code in the **Repositories** tab of my GitHub profile!
 
 ## What I'm Up To 🚀
-- Dive deeper into LLMs in production.
-- Learning more about AI Efficiency.
+- Diving deeper into **LLMs in production**.
+- Learning more about **AI Efficiency**.
 
 ## Let's Connect! 🤝
 - **LinkedIn:** [trananh91](https://www.linkedin.com/in/trananh91/)
