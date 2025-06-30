@@ -20,7 +20,7 @@ I've been working on a few personal projects that I'm excited about. You can fin
 
 ## Let's Connect! 🤝
 - **LinkedIn:** [trananh91](https://www.linkedin.com/in/trananh91/)
-- **Email:** [tranducanh717@gmail.com](mailto:your.email@example.com)
+- **Email:** [tranducanh717@gmail.com](mailto:tranducanh717@gmail.com)
 
 ---
 
