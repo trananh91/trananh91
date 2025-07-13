@@ -7,7 +7,7 @@ I am just someone curious about the **AI landscape** and always eager to learn n
 |----------------|----------------------------------|
 | Programming    | Python, SQL, C++, Bash/Shell          |
 | Frameworks     | Pytorch, Keras, Scikit-Learn, LangChain, LangGraph, Hugging Face Transformers          |
-| Tools          | Git, Linux, Jupyter, Docker, MLflow, GitHub Actions            |
+| Tools          | Git, Linux, Jupyter, Docker, MLflow, Weights & Biases, GitHub Actions            |
 | Databases      | MySQL, PostgreSQL, Chroma      |
 | Cloud Services | AWS      |
 
@@ -16,7 +16,7 @@ I've been working on a few personal projects that I'm excited about. You can fin
 
 ## What I'm Up To 🚀
 - Diving deeper into **LLMs in production**.
-- Learning more about **Efficient AI/ML**.
+- Learning more about **Efficient AI/ML** and **Edge AI**.
 
 ## Let's Connect! 🤝
 - **LinkedIn:** [trananh91](https://www.linkedin.com/in/trananh91/)
