@@ -6,9 +6,9 @@ I am just someone curious about the **AI landscape** and always eager to learn n
 | Category       | Technologies                     |
 |----------------|----------------------------------|
 | Programming    | Python, SQL, C++, Bash/Shell          |
-| Frameworks     | Pytorch, Keras, Scikit-Learn, LangChain, LangGraph, Hugging Face Transformers          |
+| Frameworks     | Pytorch, Keras, Scikit-Learn, Hugging Face Transformers, LangChain, LangGraph, FastAPI          |
 | Tools          | Git, Linux, Jupyter, Docker, MLflow, Weights & Biases            |
-| Databases      | MySQL, PostgreSQL, Chroma      |
+| Databases      | MySQL, PostgreSQL, Chroma, FAISS      |
 | Cloud Services | AWS      |
 
 ## Projects ⚙️
