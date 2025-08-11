@@ -16,7 +16,7 @@ I've been working on a few personal projects that I'm excited about. You can fin
 
 ## What I'm Up To 🚀
 - Diving deeper into **LLMs**.
-- Learning more about **Efficient AI/ML/DL**, **GPU Programming** and **On-device AI**.
+- Learning more about **Efficient AI/ML/DL**.
 
 ## Let's Connect! 🤝
 - **LinkedIn:** [trananh91](https://www.linkedin.com/in/trananh91/)
